@@ -1,0 +1,6 @@
+streamlit
+numpy
+scipy
+pytest
+crystals-kyber
+ntru
